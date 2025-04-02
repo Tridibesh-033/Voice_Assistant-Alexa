@@ -51,10 +51,3 @@ A powerful Voice Assistant built with Python that can recognize voice commands, 
 ✅ AI-Powered Conversations – Integrate with GPT models for more natural interactions.
 ✅ Smart Home Integration – Connect with IoT devices to control lights, fans, and appliances.
 ✅ Customizable Commands – Allow users to add their own voice commands easily.
-
-
-
-
-
-
-
