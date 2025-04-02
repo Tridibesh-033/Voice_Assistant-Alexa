@@ -13,9 +13,9 @@ A powerful Voice Assistant built with Python that can recognize voice commands, 
 ✅ Open Applications - Launches Notepad, Calculator, CMD, and more.  
 
 ## How It Works
-1.	Say "Alexa" to activate the assistant
-2.	Speak a command (e.g., "Open YouTube", "Play Music", "What is my IP?")
-3.	The assistant processes the command and responds
+1. Say "Alexa" to activate the assistant
+2. Speak a command (e.g., "Open YouTube", "Play Music", "What is my IP?")
+3. The assistant processes the command and responds
 
 ## Examples:
 ### You: Hi, Alexa
@@ -51,3 +51,5 @@ A powerful Voice Assistant built with Python that can recognize voice commands, 
 ✅ AI-Powered Conversations – Integrate with GPT models for more natural interactions.
 ✅ Smart Home Integration – Connect with IoT devices to control lights, fans, and appliances.
 ✅ Customizable Commands – Allow users to add their own voice commands easily.
+
+link- https://github.com/Tridibesh-033/Voice_Assistant-Alexa/blob/main/main.py
