@@ -17,7 +17,7 @@ A powerful Voice Assistant built with Python that can recognize voice commands, 
 2.	Speak a command (e.g., "Open YouTube", "Play Music", "What is my IP?")
 3.	The assistant processes the command and responds
 
-## Demo...
+## Examples...
 ### You: Hi, Alexa
 ### Alexa:🗣️ Yes, I am listening
 ### You: Open Google
@@ -39,6 +39,13 @@ A powerful Voice Assistant built with Python that can recognize voice commands, 
 ### You: Play skyfall
 ### Alexa: 
 ![img alt](https://github.com/Tridibesh-033/Voice_Assistant-Alexa/blob/main/skf.png?raw=true)
+
+### You: give me battery status, ip address
+### Alexa:🗣️
+![img alt](https://github.com/Tridibesh-033/Voice_Assistant-Alexa/blob/main/bip.png?raw=true)
+
+
+
 
 
 
