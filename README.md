@@ -20,7 +20,7 @@ A powerful Voice Assistant built with Python that can recognize voice commands, 
 ### You: Hi Alexa
 ### Alexa: Yes, I am listening
 ### You: Open Google
-### Alexa: ![img alt]()
+### Alexa: ![img alt](https://github.com/Tridibesh-033/Voice_Assistant-Alexa/blob/main/g.png?raw=true)
 
 ### You: Give me Today's News
 ### Alexa: ![img alt]()
