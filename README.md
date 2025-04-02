@@ -17,5 +17,24 @@ A powerful Voice Assistant built with Python that can recognize voice commands, 
 2.	Speak a command (e.g., "Open YouTube", "Play Music", "What is my IP?")
 3.	The assistant processes the command and responds
 
+### You: Hi Alexa
+### Alexa: Yes, I am listening
+### You: Open Google
+### Alexa: ![img alt]()
+
+### You: Give me Today's News
+### Alexa: ![img alt]()
+
+### You: What is computer Science?
+### Alexa: ![img alt]()
+
+### You: Please Open Calculator
+### Alexa: ![img alt]()
+
+### You: Play skyfall
+### Alexa: ![img alt]()
+
+
+
 
 
