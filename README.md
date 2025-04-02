@@ -1,6 +1,6 @@
 # 🎙️ Voice Assistant - Alexa Clone
 A powerful Voice Assistant built with Python that can recognize voice commands, open websites, play music, provide system updates, fetch news, and more! 
-
+![img alt]()
 ## Features  
 ✅ Voice Recognition - Recognizes and processes your voice commands.  
 ✅ Web Navigation - Opens Google, YouTube, Facebook, LinkedIn, and more.  
